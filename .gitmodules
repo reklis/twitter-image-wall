@@ -3,7 +3,7 @@
 	url = https://github.com/SFML/SFML.git
 [submodule "async-https-json-stream"]
 	path = async-https-json-stream
-	url = git@github.com:reklis/async-https-json-stream.git
+	url = https://github.com/reklis/async-https-json-stream.git
 [submodule "liboauthcpp"]
 	path = liboauthcpp
 	url = https://github.com/sirikata/liboauthcpp.git
