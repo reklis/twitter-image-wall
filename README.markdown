@@ -14,6 +14,14 @@ the code is ugly and messy, this is mostly an art project
 
 ### running
 
-    export .env # with twitter keys
-    ./twimagewall <term to track> [fullscreen]
+    export tw_consumer_key="..."
+    export tw_consumer_secret="..."
+    export tw_oauth_token="..."
+    export tw_oauth_token_secret="..."
+
+    # window mode
+    ./twimagewall <term to track>
+
+    # fullscreen mode
+    ./twimagewall <term to track> f
 
